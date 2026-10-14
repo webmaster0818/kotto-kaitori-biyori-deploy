@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/13_vs5p~zqarw.css","style"]
+:HL["/_next/static/chunks/11x7kvxl3xasw.css","style"]
+:HL["/_next/static/chunks/0n2e0m2ily_si.css","style"]
+:HL["/_next/static/media/68d0ad77fd2c49e3-s.p.0wghyr-.6qbey.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.04u2vthbg~.2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d8ea5540f28d37db-s.0g2e0b6brln.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"artist","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"inoue-manji","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"iHVKMls6qRSeR7bfIK0mN"}
